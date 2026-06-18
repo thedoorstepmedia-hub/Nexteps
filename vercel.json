@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/blog", "destination": "/blog/index.html" },
+    { "source": "/blog/why-vancouver-small-businesses-lose-leads-after-hours", "destination": "/blog/why-vancouver-small-businesses-lose-leads-after-hours.html" },
+    { "source": "/blog/how-dental-clinics-capture-more-patients-vancouver", "destination": "/blog/how-dental-clinics-capture-more-patients-vancouver.html" },
+    { "source": "/blog/why-hvac-companies-surrey-miss-jobs", "destination": "/blog/why-hvac-companies-surrey-miss-jobs.html" },
+    { "source": "/blog/turn-vancouver-business-website-into-lead-generation-machine", "destination": "/blog/turn-vancouver-business-website-into-lead-generation-machine.html" },
+    { "source": "/blog/what-is-ai-lead-capture-vancouver", "destination": "/blog/what-is-ai-lead-capture-vancouver.html" }
+  ]
+}
